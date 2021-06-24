@@ -5,6 +5,6 @@ module.exports = {
   entry: './src/index.js',
   output: {
     filename: 'main.js',
-    path: path.resolve(__dirname, 'dist') //폴더 경로
+    path: path.resolve(__dirname, 'dist') //폴더 경로 나타냄
   }
 };
